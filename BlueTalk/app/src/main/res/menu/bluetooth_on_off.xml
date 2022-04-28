@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bluetooth_on_off_btn"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/bluetooth_on_btn"
+        app:showAsAction="ifRoom|withText"/>
+    <item
+    android:id="@+id/pairing_button"
+    android:icon="@android:drawable/ic_menu_add"
+    android:title="@string/pairing_on_btn"
+    app:showAsAction="ifRoom|withText"/>
+</menu>

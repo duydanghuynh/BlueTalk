@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BlueTalk</string>
+
+    <string name="user_name_hint">Enter new user name for this device</string>
+    <string name="user_name_title_label">Username</string>
+    <string name="device_name_label">Device Name</string>
+    <string name="device_address_label">Device Address</string>
+    <string name="save_device_button_label">Save</string>
+
+
+    <string name="tv_bt_available">Bluetooth is available</string>
+    <string name="tv_bt_not_available">Bluetooth is not available</string>
+    <string name="bt_status_on">Already on</string>
+    <string name="bt_status_off">Already off</string>
+    <string name="bt_status_action_on">Bluetooth turn on</string>
+    <string name="bt_status_action_off">Bluetooth turned off</string>
+    <string name="bt_status_notice_on">Bluetooth is on</string>
+    <string name="bt_status_notice_off">Bluetooth is still off</string>
+
+    <string name="bluetooth_on_btn">Turn On Bluetooth</string>
+    <string name="bluetooth_off_btn">Turn Off Bluetooth</string>
+    <string name="pairing_on_btn">Turn on Pairing</string>
+    <string name="pairing_off_btn">Turn off Pairing</string>
+</resources>
