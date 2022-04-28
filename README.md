@@ -11,8 +11,11 @@ Bluetalk provides functions of:
 - Creating and updating paired devices as friends
 - Sending and receiving text messages with individual paired devices.
 
-## Project Status - Building:
+### Project Status - Building:
 I have tried many approaches to get build up this app. However, this is my first time learning Kotlin and it is time consuming to learning how to use, IDE, tools, debug, and other obstacles. Therefore, I have 1 bluetooth app - interacting with other bluetooth device, user management app - to later intergrate with bluetooth app to save user info to database, and chat app.
+
+### Video Demo:
+https://youtu.be/W6aM5yAZmYA
 
 ### Technical Overview
 
