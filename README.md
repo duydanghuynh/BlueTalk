@@ -37,7 +37,7 @@ Book: Android Programming The Big Nerd Ranch Guide
 Website: 
 - https://developer.android.com/
 - https://kotlinlang.org/docs
-Bluetooth topics:
+. Bluetooth topics:
 - How Bluetooth Works  
 - WiFi vs. Bluetooth: Wireless Electronics Basics  
 - Find Bluetooth devices
@@ -49,10 +49,10 @@ Bluetooth topics:
 - The Ultimate Guide to Android Bluetooth Low Energy 
 - BLESSED Coroutines, a Bluetooth Low Energy (BLE) library for Android using Kotlin Coroutines
 - Kotlin Beautiful Low Energy (BLE) | by Siamak (Ash) Ashrafi 
-Database topics:
+. Database topics:
 - SQLite Database for Android - Full Course
 - Android Kotlin Fundamentals: Create a Room Database
-Other Android topics: 
+. Other Android topics: 
 - Finally, a clean way to deal with permissions in Android
 - StartActivityForResult is Deprecated! (mongodb.com)
 - Mirror your Android Screen to Laptop (Windows 11)
