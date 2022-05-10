@@ -57,7 +57,8 @@ Kotlin - Database topics:
 - Android Kotlin Fundamentals: Create a Room Database
 
 Other Android topics: 
-- Finally, a clean way to deal with permissions in Android
+- Finally, a clean way to deal with permissions in Android:
+- - https://medium.com/kinandcartacreated/finally-a-clean-way-to-deal-with-permissions-in-android-539786a7846
 - StartActivityForResult is Deprecated! (mongodb.com)
 - Mirror your Android Screen to Laptop (Windows 11)
 - How to mirror and extend screen with Link to MyASUS? 
