@@ -58,8 +58,9 @@ or https://youtube.com/shorts/W6aM5yAZmYA?feature=share
 
 - Other Android topics: 
   - Finally, a clean way to deal with permissions in Android:
-    -https://medium.com/kinandcartacreated/finally-a-clean-way-to-deal-with-permissions-in-android-539786a7846
-  - StartActivityForResult is Deprecated! (mongodb.com)
+    https://medium.com/kinandcartacreated/finally-a-clean-way-to-deal-with-permissions-in-android-539786a7846
+  - StartActivityForResult is Deprecated! (mongodb.com):
+    https://www.mongodb.com/developer/article/realm-startactivityforresult-registerForActivityResult-deprecated-android-kotlin/  
   - Mirror your Android Screen to Laptop (Windows 11)
   - How to mirror and extend screen with Link to MyASUS? 
   - How To Fix Error Unfortunately App has Stopped or Keeps Stopping 
