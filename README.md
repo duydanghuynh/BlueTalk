@@ -2,7 +2,9 @@
 
 ## Problem Description
 
-The idea came up when I was on a camping trip with a group of friends to Pine Valley, Utah. We were staying in a house with no internet, mobile signals but other kinds of accommodation. I was in the same situation while travelling by airplane or volunteering in the remote areas in Vietnam. Imaging if you come to the trip in the middle of nowhere, or travel in an airplane with your friends or family but you cannot seat near each other, and your phone should be on the airplane mode. Even when you are nearby each other, how do you communicate without annoying or disrupting people around you. Those traveling time will be great experiences if there was a way to keep the communicating between me with the other. This application is proposed to help people to meet the need of communication within the group during their trip to wherever without worrying about internet or mobile signal’s status
+The idea came up when I was on a camping trip with a group of friends to Pine Valley, Utah. We were staying in a house with no internet, mobile signals but other kinds of accommodation. I was in the same situation while travelling by airplane or volunteering in the remote areas in Vietnam. 
+Imaging if you come to the trip in the middle of nowhere, or travel in an airplane with your friends or family but you cannot seat near each other, and your phone should be on the airplane mode. Even when you are nearby each other, how do you communicate without annoying or disrupting people around you.
+Those traveling time will be great experiences if there was a way to keep the communicating between me with the other. This application is proposed to help people to meet the need of communication within the group during their trip to wherever without worrying about internet or mobile signal’s status
 
 ## Proposed Solution
 Bluetalk provides functions of:
